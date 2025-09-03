@@ -25,7 +25,7 @@ Server starts on `:8080` by default.
 
 ---
 
-## 📡 API Endpoints
+## API Endpoints
 
 ### Health check
 
@@ -163,3 +163,4 @@ Covers:
 
 ---
 
+   

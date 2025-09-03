@@ -75,7 +75,7 @@ func main() {
 	})
 
 	addr := ":8080"
-	log.Printf("🚀 starting server on %s", addr)
+	log.Printf(" starting server on %s", addr)
 	if err := r.Run(addr); err != nil {
 		log.Fatalf("server error: %v", err)
 	}
